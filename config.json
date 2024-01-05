@@ -10,7 +10,7 @@
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "PREFIX": ".",
   "ADMINBOT": [
     "YOUR_FB_UID",
     "OTHER_FB_UID",
